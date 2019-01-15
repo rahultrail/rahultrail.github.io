@@ -10,7 +10,7 @@ const examples = {
   'example1':
       'Alice took up the fan and gloves, and, as the hall was very hot, she kept fanning herself all the time she went on talking!',
   'example2':
-      'Bob, with a sudden declension in his high spirits, for he had been Tims blood horse all the way from church, and had come home rampant.',
+      'Alice took up the fan and gloves, and, as the hall was very hot, she kept fanning herself all the time she went on talking!',
   'example3':
       'Sometimes we saw little towns or castles on the top of steep hills such as we see in old missals'      
 };
