@@ -8,7 +8,9 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice took up the fan and gloves, and, as the hall was very hot, she kept fanning herself all the time she went on talking!',
+      'Alice took up the fan and gloves, and, as the hall was very hot, she kept fanning herself all the time she went on talking!/n
+      Alice took up the fan and gloves, and, as the hall was very hot, she kept fanning herself all the time she went on talking!/n
+      Alice took up the fan and gloves, and, as the hall was very hot, she kept fanning herself all the time she went on talking!',
   'example2':
       'Alice took up the fan and gloves, and, as the hall was very hot, she kept fanning herself all the time she went on talking!',
   'example3':
